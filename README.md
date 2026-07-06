@@ -3,7 +3,9 @@
 🔓 Бесплатные MTProto-прокси для Telegram в России
 
 <!-- STATS_START -->
-<a href="https://raw.githubusercontent.com/aviamastersgh/mtproto-free-russia/main/all_proxies.txt"><img src="https://img.shields.io/badge/Все_прокси-0-4C8BF5?style=for-the-badge&logo=server&logoColor=white" alt="All proxies"/></a> <a href="https://raw.githubusercontent.com/aviamastersgh/mtproto-free-russia/main/verified_proxies.txt"><img src="https://img.shields.io/badge/Проверенные-0-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verified proxies"/></a> <img src="https://img.shields.io/badge/Обновлено-не_запускался-f97316?style=for-the-badge&logo=clockify&logoColor=white" alt="Updated"/>
+<a href="https://raw.githubusercontent.com/aviamastersgh/mtproto-free-russia/main/all_proxies.txt"><img src="https://img.shields.io/badge/Все_прокси-279-4C8BF5?style=for-the-badge&logo=server&logoColor=white" alt="All proxies"/></a>
+<a href="https://raw.githubusercontent.com/aviamastersgh/mtproto-free-russia/main/verified_proxies.txt"><img src="https://img.shields.io/badge/Проверенные-207-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verified proxies"/></a>
+<img src="https://img.shields.io/badge/Обновлено-2026_07_06_16%3A35_UTC-f97316?style=for-the-badge&logo=clockify&logoColor=white" alt="Updated"/>
 <!-- STATS_END -->
 
 <a href="https://t.me/NosokVPNBot?start=partner_8655864538"><img src="https://img.shields.io/badge/Telegram-@NosokVpnBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram VPN бот"/></a> <a href="https://github.com/aviamastersgh/mtproto-free-russia"><img src="https://img.shields.io/github/stars/aviamastersgh/mtproto-free-russia?style=for-the-badge&color=yellow" alt="Stars"/></a>
