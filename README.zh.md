@@ -1,8 +1,37 @@
 <div align="center">
 
-# 🔓 免费 MTProto 俄罗斯代理
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=200&section=header&text=🔓%20Free%20MTProto%20Russia&fontSize=38&fontColor=ffffff&fontAlignY=20&desc=免费的%20MTProto%20代理，用于%20Telegram%20%7C%20每2小时更新一次&descAlignY=58&descSize=15&descColor=aaaacc"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=🔓%20Free%20MTProto%20Russia&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=免费的%20MTProto%20代理，用于%20Telegram%20%7C%20每2小时更新一次&descAlignY=58&descSize=15&descColor=f0e6ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=🔓%20Free%20MTProto%20Russia&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=免费的%20MTProto%20代理，用于%20Telegram%20%7C%20每2小时更新一次&descAlignY=58&descSize=15&descColor=f0e6ff" alt="Free MTProto Russia — 免费的 Telegram MTProto 代理，2025-2026 绕过封锁"/>
+</picture>
 
-**MTProto 代理**
+<br/>
+
+<!-- LANG_SWITCH_START -->
+<div align="center">
+
+### 🇨🇳 中文
+
+[🇷🇺 Русский](README.md) · [🇬🇧 English](README.en.md) · [🇸🇦 العربية](README.ar.md)
+
+</div>
+<!-- LANG_SWITCH_END -->
+
+<br/><br/>
+
+<!-- STATS_START -->
+<a href="https://raw.githubusercontent.com/aviamastersgh/mtproto-free-russia/main/all_proxies.txt"><img src="https://img.shields.io/badge/所有代理-279-4C8BF5?style=for-the-badge&logo=server&logoColor=white" alt="All proxies"/></a>
+<a href="https://raw.githubusercontent.com/aviamastersgh/mtproto-free-russia/main/verified_proxies.txt"><img src="https://img.shields.io/badge/已验证-207-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verified proxies"/></a>
+<img src="https://img.shields.io/badge/更新时间-2026_07_06_16%3A53_UTC-f97316?style=for-the-badge&logo=clockify&logoColor=white" alt="Updated"/>
+<!-- STATS_END -->
+
+<a href="https://t.me/NosokVPNBot?start=partner_8655864538"><img src="https://img.shields.io/badge/Telegram-@NosokVpnBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram VPN 机器人"/></a>
+<a href="https://github.com/aviamastersgh/mtproto-free-russia"><img src="https://img.shields.io/github/stars/aviamastersgh/mtproto-free-russia?style=for-the-badge&color=yellow" alt="Stars"/></a>
+
+<br/><br/>
+
+**MTProto Proxy**
 
 *免费的 Telegram MTProto 代理 · 绕过俄罗斯联邦通信监管局（РКН）封锁 · 支持 Telegram 官方客户端*
 
